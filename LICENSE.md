@@ -14,3 +14,4 @@ WallpaperAccess licensed only for personal usage <https://wallpaperaccess.com/fa
 - minimal-christmas <https://wallpaperaccess.com/minimalist-dark-christmas#1367742>
 - minimal-fishes <https://wallpaperaccess.com/minimalist-fish#3256758>
 - minimal-sunset <https://wallpaperaccess.com/minimal-sunset#5381895>
+- minimal-x-wings <https://wallpaperaccess.com/minimalist-star-wars#203567>
