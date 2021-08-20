@@ -1,5 +1,9 @@
 # License
 
+Reddit unlicensed
+
+- minimal-cougar <https://www.reddit.com/r/wallpaper/comments/o2gkxx/minimal_3840_x_2160/>
+
 WallpaperAccess licensed only for personal usage <https://wallpaperaccess.com/faq#personaluse>.
 
 - minimal-christmas <https://wallpaperaccess.com/minimalist-dark-christmas#1367742>
