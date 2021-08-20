@@ -6,6 +6,7 @@ Reddit unlicensed.
 - minimal-coding <https://www.reddit.com/r/wallpaper/comments/ly1o06/minimal_coding_wallpaper_3840x2160/>
 - minimal-cougar <https://www.reddit.com/r/wallpaper/comments/o2gkxx/minimal_3840_x_2160/>
 - minimal-earth <https://www.reddit.com/r/wallpaper/comments/4ki6kd/minimal_earth_169_3840x2160/>
+- minimal-pikachu <https://www.reddit.com/r/wallpaper/comments/m8p5pg/minimalist_pikachu_3840_x_2160/>
 
 WallpaperAccess licensed only for personal usage <https://wallpaperaccess.com/faq#personaluse>.
 
