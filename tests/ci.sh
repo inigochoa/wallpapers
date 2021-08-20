@@ -30,6 +30,13 @@ test_dimensions() {
   fi
 }
 
+test_license() {
+  local ERROR="$1 has no license!"
+  local FILENAME="$(basename $1 | cut -d. -f1)"
+
+  grep -qE " $FILENAME " ./LICENSE.md || print_error "$ERROR"
+}
+
 test_name() {
   local ERROR="$1 has invalid name!"
 
@@ -39,9 +46,10 @@ test_name() {
 }
 
 for IMAGE in ./images/*.jpg; do
-  test_artist "$IMAGE"
-  test_dimensions "$IMAGE"
-  test_name "$IMAGE"
+  #test_artist "$IMAGE"
+  #test_dimensions "$IMAGE"
+  test_license "$IMAGE"
+  #test_name "$IMAGE"
 done
 
 echo "Success! Wallpapers validated."
