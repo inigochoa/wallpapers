@@ -1,5 +1,9 @@
 # License
 
+Pexels free to use license <https://www.pexels.com/license/>.
+
+- time-lapse <https://www.pexels.com/photo/time-lapse-photo-of-stars-on-night-924824/>
+
 Reddit unlicensed.
 
 - minimal-clockwork-orange <https://www.reddit.com/r/wallpaper/comments/l9izmz/clock_minimalism_wallpaper_3840x2160/>
