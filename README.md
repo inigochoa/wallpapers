@@ -45,8 +45,14 @@ Attribution are allowed.
 Individual wallpapers will be evaluated to ensure they meet the licensing
 requirements.
 
+### Ownership
+
+If you find an image hosted in this repository that is yours and of limited use,
+please let me know by filling an [Ownership Claim Issue].
+
 [@inigochoa]: https://github.com/inigochoa/
 [see below]: #licensing
 [image content rules]: #image-content
 [naming rules]: #naming
 [LICENSE.md]: https://github.com/inigochoa/wallpapers/LICENSE.md
+[Ownership Claim Issue]: https://github.com/inigochoa/wallpapers/issues/new?assignees=inigochoa&labels=ownership+claim&template=ownership-claim.md&title=Ownership+Claim+-+
