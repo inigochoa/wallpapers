@@ -8,6 +8,7 @@ Pexels free to use license <https://www.pexels.com/license/>.
 
 Pixabay free to use license <https://pixabay.com/es/service/license/>.
 
+- earth by Frank Estalone Frank Estalone VFX <https://pixabay.com/photos/earth-planet-solar-system-biosphere-1272884/>
 - minimal-christmas-ii by Gerd Altmann <https://pixabay.com/illustrations/christmas-christmas-tree-stars-2919725/>
 
 Reddit unlicensed.
