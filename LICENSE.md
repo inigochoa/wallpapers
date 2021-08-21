@@ -6,6 +6,10 @@ Pexels free to use license <https://www.pexels.com/license/>.
 - full-moon by Dids <https://www.pexels.com/photo/full-moon-1358833/>
 - time-lapse by Jakub Novacek <https://www.pexels.com/photo/time-lapse-photo-of-stars-on-night-924824/>
 
+Pixabay free to use license <https://pixabay.com/es/service/license/>.
+
+- minimal-christmas-ii by Gerd Altmann <https://pixabay.com/illustrations/christmas-christmas-tree-stars-2919725/>
+
 Reddit unlicensed.
 
 - minimal-clockwork-orange by HTC365 <https://www.reddit.com/r/wallpaper/comments/l9izmz/clock_minimalism_wallpaper_3840x2160/>
