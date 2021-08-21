@@ -1,10 +1,10 @@
 ---
 name: Other issue
 about: File an issue
-title: ''
+title: 'Other - '
 labels: ''
-assignees: ''
-
+assignees: inigochoa
 ---
 
-
+**Describe the issue**
+Any information on the issue to be discussed.
