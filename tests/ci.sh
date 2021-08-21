@@ -46,10 +46,10 @@ test_name() {
 }
 
 for IMAGE in ./images/*.jpg; do
-  #test_artist "$IMAGE"
-  #test_dimensions "$IMAGE"
+  test_artist "$IMAGE"
+  test_dimensions "$IMAGE"
   test_license "$IMAGE"
-  #test_name "$IMAGE"
+  test_name "$IMAGE"
 done
 
 echo "Success! Wallpapers validated."
