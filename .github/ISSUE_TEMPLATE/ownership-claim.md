@@ -2,7 +2,7 @@
 name: Ownership Claim
 about: Describe this issue template's purpose here.
 title: 'Ownership Claim - '
-labels: ''
+labels: ownership claim
 assignees: inigochoa
 
 ---
