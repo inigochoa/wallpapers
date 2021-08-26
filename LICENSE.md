@@ -2,7 +2,6 @@
 
 Pexels free to use license <https://www.pexels.com/license/>.
 
-- cluster-of-stars by Kai Pilger <https://www.pexels.com/photo/cluster-of-stars-1341279/>
 - full-moon by Dids <https://www.pexels.com/photo/full-moon-1358833/>
 
 Pixabay free to use license <https://pixabay.com/es/service/license/>.
