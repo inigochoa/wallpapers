@@ -26,6 +26,7 @@ Wallheaven licenses remain to their original owners <https://wallhaven.cc/about#
 - minimal-keyboard-ii by TriptoAfsin <https://wallhaven.cc/w/ox7xp5>
 - minimal-space by defurious <https://wallhaven.cc/w/yjkd1k>
 - minimal-sunset-ii by defurious <https://wallhaven.cc/w/mpo7jk>
+- minimal-water-ripples by Pc7 <https://wallhaven.cc/w/oxvrjl>
 
 WallpaperAccess licensed only for personal usage <https://wallpaperaccess.com/faq#personaluse>.
 
