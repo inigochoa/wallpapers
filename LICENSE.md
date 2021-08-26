@@ -18,6 +18,10 @@ Reddit unlicensed.
 - minimal-pikachu by kimiireddit <https://www.reddit.com/r/wallpaper/comments/m8p5pg/minimalist_pikachu_3840_x_2160/>
 - pastel-sunset by Bis Biswas <https://www.reddit.com/r/wallpaper/comments/m3cmhs/3840x2160_pastel_sunset/>
 
+Wallheaven licenses remain to their original owners <https://wallhaven.cc/about#Copyright>.
+
+- minimal-astronaut by pavl1S <https://wallhaven.cc/w/md37wk>
+
 WallpaperAccess licensed only for personal usage <https://wallpaperaccess.com/faq#personaluse>.
 
 - minimal-christmas <https://wallpaperaccess.com/minimalist-dark-christmas#1367742>
