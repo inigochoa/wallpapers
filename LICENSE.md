@@ -21,6 +21,7 @@ Reddit unlicensed.
 Wallheaven licenses remain to their original owners <https://wallhaven.cc/about#Copyright>.
 
 - minimal-astronaut by pavl1S <https://wallhaven.cc/w/md37wk>
+- minimal-earphones <https://wallhaven.cc/w/nke177>
 
 WallpaperAccess licensed only for personal usage <https://wallpaperaccess.com/faq#personaluse>.
 
