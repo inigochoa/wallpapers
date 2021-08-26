@@ -24,6 +24,7 @@ Wallheaven licenses remain to their original owners <https://wallhaven.cc/about#
 - minimal-earphones <https://wallhaven.cc/w/nke177>
 - minimal-keyboard by TriptoAfsin <https://wallhaven.cc/w/6kek8l>
 - minimal-keyboard-ii by TriptoAfsin <https://wallhaven.cc/w/ox7xp5>
+- minimal-space by defurious <https://wallhaven.cc/w/yjkd1k>
 
 WallpaperAccess licensed only for personal usage <https://wallpaperaccess.com/faq#personaluse>.
 
