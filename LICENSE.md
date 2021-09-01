@@ -17,6 +17,7 @@ Reddit unlicensed.
 - minimal-earth by UberMeow <https://www.reddit.com/r/wallpaper/comments/4ki6kd/minimal_earth_169_3840x2160/>
 - minimal-pacman by The_Blueberry_Pi <https://www.reddit.com/r/wallpaper/comments/mpsm87/minimal_pacman_3840x2160/>
 - minimal-pikachu by kimiireddit <https://www.reddit.com/r/wallpaper/comments/m8p5pg/minimalist_pikachu_3840_x_2160/>
+- minimal-redux by oehheo <https://www.reddit.com/r/wallpaper/comments/je18ua/minimal_dark_wallpaper_3840_x_2160/>
 - minimal-stain by vinncentlaw <https://www.reddit.com/r/wallpaper/comments/iyxst3/for_those_who_love_minimal_1920x1080/>
 - pastel-sunset by Bis Biswas <https://www.reddit.com/r/wallpaper/comments/m3cmhs/3840x2160_pastel_sunset/>
 
