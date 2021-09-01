@@ -15,6 +15,7 @@ Reddit unlicensed.
 - minimal-coding by The_Blueberry_Pi <https://www.reddit.com/r/wallpaper/comments/ly1o06/minimal_coding_wallpaper_3840x2160/>
 - minimal-cougar by fajadraws <https://www.reddit.com/r/wallpaper/comments/o2gkxx/minimal_3840_x_2160/>
 - minimal-earth by UberMeow <https://www.reddit.com/r/wallpaper/comments/4ki6kd/minimal_earth_169_3840x2160/>
+- minimal-pacman by The_Blueberry_Pi <https://www.reddit.com/r/wallpaper/comments/mpsm87/minimal_pacman_3840x2160/>
 - minimal-pikachu by kimiireddit <https://www.reddit.com/r/wallpaper/comments/m8p5pg/minimalist_pikachu_3840_x_2160/>
 - pastel-sunset by Bis Biswas <https://www.reddit.com/r/wallpaper/comments/m3cmhs/3840x2160_pastel_sunset/>
 
