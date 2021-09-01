@@ -2,8 +2,8 @@
 
 set -e
 
-MINHEIGHT=1800
-MINWIDTH=3200
+MINHEIGHT=1080
+MINWIDTH=1920
 
 print_error() {
   echo "Failure! $1 See README.md."

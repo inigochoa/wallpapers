@@ -22,7 +22,7 @@ command.
 
 #### Image content
 
-1. Wallpapers should be at least 3200×1800px.
+1. Wallpapers should be at least 1920×1080px.
 1. No people.
 1. Avoid grainy images.
 1. Not too distracting if a non-maximized window is open.
