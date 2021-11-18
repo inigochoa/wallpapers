@@ -48,3 +48,4 @@ WallpaperAccess licensed only for personal usage <https://wallpaperaccess.com/fa
 WallpapersCraft unlincensed <https://wallpaperscraft.com/>
 
 - minimal-airplane <https://wallpaperscraft.com/download/airplane_track_dark_sky_119015/3840x2160>
+- minimal-star <https://wallpaperscraft.com/download/star_black_background_light_118237/3840x2160>
