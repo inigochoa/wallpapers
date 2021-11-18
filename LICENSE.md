@@ -50,3 +50,4 @@ WallpapersCraft unlincensed <https://wallpaperscraft.com/>
 - minimal-airplane <https://wallpaperscraft.com/download/airplane_track_dark_sky_119015/3840x2160>
 - minimal-plexus <https://wallpaperscraft.com/download/lines_plexus_black_background_118281/3840x2160>
 - minimal-star <https://wallpaperscraft.com/download/star_black_background_light_118237/3840x2160>
+- minimal-tron <https://wallpaperscraft.com/download/speed_tron_motorcycle_74482/2560x1440>
