@@ -3,6 +3,7 @@
 Heroscreen license remain to the original owner <https://www.heroscreen.cc/>
 
 - black-flower by Heroscreen <https://www.heroscreen.cc/2020/08/black-wallpaper-hd-4k-flower.html>
+- dragon-night by Heroscreen <https://www.heroscreen.cc/2020/08/black-desktop-wallpaper-dragon-flying.html>
 - earth-ii by Heroscreen <https://www.heroscreen.cc/2021/01/cool-wallpaper-for-desktop-12000x6000.html>
 - nasa by Heroscreen <https://www.heroscreen.cc/2020/08/nasa-black-wallpaper-hd-4k.html>
 - neon-lights by Heroscreen <https://www.heroscreen.cc/2021/01/desktop-wallpaper-4k-neon-light.html>
