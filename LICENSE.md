@@ -3,6 +3,7 @@
 Heroscreen license remain to the original owner <https://www.heroscreen.cc/>
 
 - black-flower by Heroscreen <https://www.heroscreen.cc/2020/08/black-wallpaper-hd-4k-flower.html>
+- earth-ii by Heroscreen <https://www.heroscreen.cc/2021/01/cool-wallpaper-for-desktop-12000x6000.html>
 - neon-lights by Heroscreen <https://www.heroscreen.cc/2021/01/desktop-wallpaper-4k-neon-light.html>
 
 Pexels free to use license <https://www.pexels.com/license/>.
