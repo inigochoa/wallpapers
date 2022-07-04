@@ -27,6 +27,7 @@ Reddit unlicensed.
 - minimal-fishes by tedtalks_bits <https://www.reddit.com/r/wallpaper/comments/ge9xh4/fish_minimalism_i_tried_2880_x_1800/>
 - minimal-pacman by The_Blueberry_Pi <https://www.reddit.com/r/wallpaper/comments/mpsm87/minimal_pacman_3840x2160/>
 - minimal-pikachu by kimiireddit <https://www.reddit.com/r/wallpaper/comments/m8p5pg/minimalist_pikachu_3840_x_2160/>
+- minimal-planet by CheekiPosts <https://www.reddit.com/r/MinimalWallpaper/comments/vr2d0d/my_take_on_a_dead_simple_planet_and_stars_free_to/>
 - minimal-redux by oehheo <https://www.reddit.com/r/wallpaper/comments/je18ua/minimal_dark_wallpaper_3840_x_2160/>
 - minimal-squid by OfficialDampSquid <https://www.reddit.com/r/wallpaper/comments/andmur/minimal_squid_2560_x_1440_i_made_this_for_myself/>
 - minimal-stain by vinncentlaw <https://www.reddit.com/r/wallpaper/comments/iyxst3/for_those_who_love_minimal_1920x1080/>
