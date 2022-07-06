@@ -33,6 +33,7 @@ Reddit unlicensed.
 - minimal-stain by vinncentlaw <https://www.reddit.com/r/wallpaper/comments/iyxst3/for_those_who_love_minimal_1920x1080/>
 - minimal-starters by siddharthroy12 <https://www.reddit.com/r/unixporn/comments/qmey9z/i3gaps_aquarium/>
 - pastel-sunset by Bis Biswas <https://www.reddit.com/r/wallpaper/comments/m3cmhs/3840x2160_pastel_sunset/>
+- the-forest by AhvGamerBoy <https://www.reddit.com/r/wallpaper/comments/vrw4ed/1920x1080_the_forest/>
 
 Wallheaven licenses remain to their original owners <https://wallhaven.cc/about#Copyright>.
 
