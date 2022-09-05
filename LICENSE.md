@@ -1,5 +1,9 @@
 # License
 
+Catppuccin org MIT license <https://github.com/catppuccin/wallpapers>
+
+- minimal-catppuccin-triangle by catppuccin <https://github.com/catppuccin/wallpapers/blob/main/minimalistic/catppuccin_triangle.png>
+
 Heroscreen license remain to the original owner <https://www.heroscreen.cc/>
 
 - black-flower by Heroscreen <https://www.heroscreen.cc/2020/08/black-wallpaper-hd-4k-flower.html>
