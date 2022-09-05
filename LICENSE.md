@@ -3,6 +3,7 @@
 Catppuccin org MIT license <https://github.com/catppuccin/wallpapers>
 
 - minimal-catppuccin-triangle by catppuccin <https://github.com/catppuccin/wallpapers/blob/main/minimalistic/catppuccin_triangle.png>
+- minimal-sports by catppuccin <https://github.com/catppuccin/wallpapers/blob/main/minimalistic/sports.png>
 
 Heroscreen license remain to the original owner <https://www.heroscreen.cc/>
 
