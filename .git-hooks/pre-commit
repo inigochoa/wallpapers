@@ -25,15 +25,16 @@ first=true
 for img in $image_files; do
   relative_path=$(realpath --relative-to=. "$img")
   author=$(exiftool -Artist -s -s -s "$img" 2>/dev/null || echo "")
-  
+
   if [ "$first" = true ]; then
     first=false
   else
     echo "," >> "$JSON_FILE"
   fi
-  
+
   echo -n "    {" >> "$JSON_FILE"
   echo -n "\"path\": \"$relative_path\"" >> "$JSON_FILE"
+  echo -n ", \"author\": \"$author\"" >> "$JSON_FILE"
   echo -n "}" >> "$JSON_FILE"
 done
 
