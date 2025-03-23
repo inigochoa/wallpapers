@@ -1,0 +1,46 @@
+#!/bin/bash
+
+IMAGES_DIR="./images"
+JSON_FILE="images.json"
+
+if [ ! -d "$IMAGES_DIR" ]; then
+  echo "Error: '$IMAGES_DIR' folder does not exist."
+  exit 1
+fi
+
+if ! command -v exiftool &> /dev/null; then
+  echo "Error: 'exiftool' is not installed."
+  exit 1
+fi
+
+image_files=$(find "$IMAGES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.gif" -o -name "*.webp" -o -name "*.svg" \) | sort)
+timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+
+echo "{" > "$JSON_FILE"
+echo "  \"generated_at\": \"$timestamp\"," >> "$JSON_FILE"
+echo "  \"images\": [" >> "$JSON_FILE"
+
+first=true
+
+for img in $image_files; do
+  relative_path=$(realpath --relative-to=. "$img")
+  author=$(exiftool -Artist -s -s -s "$img" 2>/dev/null || echo "")
+  
+  if [ "$first" = true ]; then
+    first=false
+  else
+    echo "," >> "$JSON_FILE"
+  fi
+  
+  echo -n "    {" >> "$JSON_FILE"
+  echo -n "\"path\": \"$relative_path\"" >> "$JSON_FILE"
+  echo -n "}" >> "$JSON_FILE"
+done
+
+echo "" >> "$JSON_FILE"
+echo "  ]" >> "$JSON_FILE"
+echo "}" >> "$JSON_FILE"
+
+git add "$JSON_FILE"
+
+echo "✅ File $JSON_FILE updated."

@@ -16,6 +16,7 @@ point.
 1. Include license info to the [LICENSE.md] file.
 1. Add artist exif metadata using `exiftool -artist="ARTIST" WALLPAPER`
 command.
+1. Add the image to the [json file] either by hand or using the git hook.
 1. Create a pull request.
 
 ### Rules
@@ -55,4 +56,5 @@ please let me know by filling an [Ownership Claim Issue].
 [image content rules]: #image-content
 [naming rules]: #naming
 [LICENSE.md]: https://github.com/inigochoa/wallpapers/LICENSE.md
+[json file]: https://github.com/inigochoa/wallapers/images.json
 [Ownership Claim Issue]: https://github.com/inigochoa/wallpapers/issues/new?assignees=inigochoa&labels=ownership+claim&template=ownership-claim.md&title=Ownership+Claim+-+
