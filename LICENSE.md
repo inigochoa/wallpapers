@@ -19,6 +19,7 @@ Pixabay free to use license <https://pixabay.com/es/service/license/>.
 
 Reddit unlicensed.
 
+- earth-ascii by altz3r0 <https://www.reddit.com/r/wallpaper/comments/1jvxyii/ascii_earth_2560x1080/>
 - minimal-cerberus by Gamesdean13 <https://www.reddit.com/r/wallpaper/comments/wughzt/mass_effect_alliance_and_cerberus_logos_1920x1080/>
 - minimal-clockwork-orange by HTC365 <https://www.reddit.com/r/wallpaper/comments/l9izmz/clock_minimalism_wallpaper_3840x2160/>
 - minimal-code by Unknown <https://www.reddit.com/r/MinimalWallpaper/comments/gbm5dk/morgan_codes_3840x2160/>
